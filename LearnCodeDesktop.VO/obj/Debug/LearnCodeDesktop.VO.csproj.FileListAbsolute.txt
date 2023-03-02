@@ -1,0 +1,6 @@
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.VO\bin\Debug\LearnCodeDesktop.VO.dll
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.VO\bin\Debug\LearnCodeDesktop.VO.pdb
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.VO\obj\Debug\LearnCodeDesktop.VO.csproj.AssemblyReference.cache
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.VO\obj\Debug\LearnCodeDesktop.VO.csproj.CoreCompileInputs.cache
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.VO\obj\Debug\LearnCodeDesktop.VO.dll
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.VO\obj\Debug\LearnCodeDesktop.VO.pdb

@@ -1,0 +1,16 @@
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\bin\Debug\LearnCodeDesktop.PontoAprendizagem.exe.config
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\bin\Debug\LearnCodeDesktop.PontoAprendizagem.exe
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\bin\Debug\LearnCodeDesktop.PontoAprendizagem.pdb
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\obj\Debug\LearnCodeDesktop.PontoAprendizagem.csproj.AssemblyReference.cache
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\obj\Debug\LearnCodeDesktop.PontoAprendizagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\obj\Debug\LearnCodeDesktop.PontoAprendizagem.Form1.resources
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\obj\Debug\LearnCodeDesktop.PontoAprendizagem.Properties.Resources.resources
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\obj\Debug\LearnCodeDesktop.PontoAprendizagem.csproj.GenerateResource.cache
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\obj\Debug\LearnCodeDesktop.PontoAprendizagem.csproj.CoreCompileInputs.cache
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\obj\Debug\LearnCodeDesktop.PontoAprendizagem.exe
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\obj\Debug\LearnCodeDesktop.PontoAprendizagem.pdb
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\obj\Debug\LearnCodeDesktop.PontoAprendizagem.Form2.resources
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\bin\Debug\LearnCodeDesktop.VO.dll
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\bin\Debug\LearnCodeDesktop.VO.pdb
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\obj\Debug\LearnCodeDesktop.PontoAprendizagem.csproj.CopyComplete
+C:\Users\romul\source\repos\LearnCodeDesktop\LearnCodeDesktop.PontoAprendizagem\obj\Debug\LearnCodeDesktop.PontoAprendizagem.Form3.resources
